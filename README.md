@@ -8,7 +8,7 @@
 
 <p align="center">
 Integrated M.Tech CSE student at <b>VIT Vellore</b><br>
-⚙️ Systems &nbsp;·&nbsp; 🧠 Machine Learning
+⚙️ Systems &nbsp;·&nbsp; 🧠 Machine Learning;🌐 Backend 
 </p>
 
 ---
