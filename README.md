@@ -8,7 +8,7 @@
 
 <p align="center">
 Integrated M.Tech CSE student at <b>VIT Vellore</b><br>
-⚙️ Systems &nbsp;·&nbsp; 🧠 Machine Learning&nbsp;·&nbsp;🌐 Backend 
+⚙️ Systems &nbsp;·&nbsp; 🧠 Machine Learning &nbsp;·&nbsp; 🌐 Backend
 </p>
 
 ---
@@ -25,8 +25,36 @@ Integrated M.Tech CSE student at <b>VIT Vellore</b><br>
 
 ## 💻 Tech stack
 
+**Languages**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,pytorch,fastapi,flask,linux,docker,git" alt="tech stack">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java" alt="languages">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,sqlite,mongodb" alt="backend">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+</p>
+
+**ML & Data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas" alt="ml and data">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge" alt="XGBoost">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
+</p>
+
+**Tools & Systems**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,postman" alt="tools">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
 </p>
 
 ---
