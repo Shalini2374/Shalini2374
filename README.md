@@ -8,7 +8,7 @@
 
 <p align="center">
 Integrated M.Tech CSE student at <b>VIT Vellore</b><br>
-⚙️ Systems &nbsp;·&nbsp; 🧠 Machine Learning &nbsp;·&nbsp; 🌐 Backend
+⚙️ Systems &nbsp;·&nbsp; 🧠 Machine Learning
 </p>
 
 ---
@@ -25,35 +25,8 @@ Integrated M.Tech CSE student at <b>VIT Vellore</b><br>
 
 ## 💻 Tech stack
 
-**Languages**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql" alt="languages">
-</p>
-
-**ML & Data**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="ml frameworks">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge" alt="XGBoost">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-</p>
-
-**Backend & Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,mongodb,sqlite" alt="backend">
-</p>
-
-**Tools & Systems**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,postman,bash" alt="tools">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,pytorch,fastapi,flask,linux,docker,git" alt="tech stack">
 </p>
 
 ---
@@ -78,6 +51,4 @@ Integrated M.Tech CSE student at <b>VIT Vellore</b><br>
 
 ## 🌱 Exploring
 
-- Training and evaluating ML models
-- Learning new languages beyond the ones above
-- Areas outside AI that I haven't met yet
+Picking up new languages and areas outside AI.
