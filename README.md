@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.jpg" alt="banner" width="100%">
+</p>
+
 <h1 align="center">Hey 👋 I'm Shalini</h1>
 
 <p align="center"><i>🛠️ I solve problems that spark my curiosity by building, experimenting, and testing.</i></p>
@@ -30,9 +34,14 @@ Integrated M.Tech CSE student at <b>VIT Vellore</b><br>
 **ML & Data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas" alt="ml">
-  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge" alt="XGBoost">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="ml frameworks">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge" alt="XGBoost">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 </p>
 
 **Backend & Databases**
@@ -72,7 +81,3 @@ Integrated M.Tech CSE student at <b>VIT Vellore</b><br>
 - Training and evaluating ML models
 - Learning new languages beyond the ones above
 - Areas outside AI that I haven't met yet
-
----
-
-<p align="center"><i>Always building, always testing. 🚀</i></p>
