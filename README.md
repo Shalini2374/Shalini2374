@@ -78,4 +78,3 @@ Integrated M.Tech CSE student at <b>VIT Vellore</b><br>
 
 ---
 
-Picking up new languages and areas outside AI.
