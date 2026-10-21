@@ -28,7 +28,7 @@ Integrated M.Tech CSE student at <b>VIT Vellore</b><br>
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java" alt="languages">
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,java" alt="languages">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
 </p>
 
@@ -66,6 +66,7 @@ Integrated M.Tech CSE student at <b>VIT Vellore</b><br>
 | [**memory-allocator-c**](https://github.com/Shalini2374/memory-allocator-c) | C · pthreads · Linux | Thread-safe malloc/free with per-thread arenas: 13k → 641k ops/sec |
 | [**Phishing-Engine**](https://github.com/Shalini2374/Phishing-Engine) | Flask · XGBoost · CNN · NLP | Multi-modal phishing detection with a Chrome extension |
 | [**Venta-Riko**](https://github.com/Shalini2374/Venta-Riko-AI-Driven-Retail-Inventory-Optimization-) | FastAPI · Random Forest · JWT | Retail inventory backend with ML-driven discount prediction |
+| [**gpu-kernel-lab**](https://github.com/Shalini2374/gpu-kernel-lab) | C++ · CUDA · cuBLAS · PTX | CUDA kernel optimization study (reduction, transpose, SGEMM) benchmarked on an RTX 3050 with PTX analysis; AI-assisted learning project |
 
 ---
 
